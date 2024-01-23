@@ -1,13 +1,10 @@
 ---
 layout: default
 ---
-
-Terms and Conditions
+# Terms and Conditions
 
 [Privacy Policy](./privacy-policy.md).
 
-
-# Terms and Conditions
 
 ## Terms and Conditions for CvSU QR Buddy:
 
