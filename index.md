@@ -49,7 +49,9 @@ Terms and Conditions
 
 - Any specified update date does not imply modification of all information on the application.
 
-- Users can report inaccuracies on the application by emailing danjoseph.ortega@cvsu.edu.ph.
+- Users can report inaccuracies on the application by emailing:
+  - danjoseph.ortega@cvsu.edu.ph
+  - aldwinlee.estopia@cvsu.edu.ph
 
 ## 6. Third-Party Services:
 
@@ -100,7 +102,7 @@ Terms and Conditions
 
 ## Contact Information:
 
-- For inquiries, contact **Dan Joseph Ortega** at **danjoseph.ortega@cvsu.edu.ph.**
+- For inquiries, contact **Dan Joseph** at **danjoseph.ortega@cvsu.edu.ph.** or **Aldwin Lee** at **aldwinlee.estopia@cvsu.edu.ph**
 
 
 
