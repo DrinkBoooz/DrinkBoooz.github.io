@@ -1,110 +1,63 @@
 ---
 layout: default
 ---
-# Terms and Conditions
+
+[Terms and Conditions](./terms-and-conditions.md).
 
 [Privacy Policy](./privacy-policy.md).
 
-January 23, 2023
 
-## Terms and Conditions for CvSU QR Buddy:
+# CvSU QR Buddy FAQ:
 
-## 1. Agreement Overview:
+### What is CvSU QR Buddy?
 
-- These terms and conditions ("Agreement") outline the terms governing your use of the CvSU QR Buddy website ("Website" or "Service") and any associated products and services (collectively, "Services"), all of which are free of charge. The purpose of CvSU QR Buddy is to monitor entrants within the university and its facilities. This Agreement is a legally binding contract between you ("User", "you" or "your") and CvSU QR Buddy ("CvSU QR Buddy," "we," "us," or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement.
+- CvSU QR Buddy is a web-based platform that helps monitor entry and track individuals within CvSU premises. It utilizes QR codes for easier tracking and data management.
 
-## 2. Accounts and Membership:
+### Who can use CvSU QR Buddy?
 
-- If you create an account on the application, you are responsible for maintaining its security and are fully accountable for all activities under your account.
+- Currently, CvSU QR Buddy is exclusively available to CvSU students, faculty, and staff. They can access the platform using their official CvSU email addresses.
 
-- We may monitor and review new accounts, and providing false contact information may result in account termination.
+### Do I need to pay to use CvSU QR Buddy?
 
-- Notify us immediately of any unauthorized account uses or security breaches.
+- No, CvSU QR Buddy is completely free to use for authorized CvSU personnel. There are no hidden fees or subscriptions.
 
-- We reserve the right to suspend, disable, or delete accounts for violations of this Agreement.
+### How does CvSU QR Buddy work?
 
-- Account creation is limited to emails with the domain @cvsu.edu.ph for verification.
+- Upon entering designated areas within CvSU, authorized users scan QR codes using their mobile devices. This logs their entry time and location, providing data for entry monitoring and contact tracing purposes.
 
-## 3. User Content:
+### What information does CvSU QR Buddy collect?
 
-- You own the data, information, or material ("Content") you submit on the Website.
+- CvSU QR Buddy primarily collects user IDs, entry times, and location data based on scanned QR codes. This information is essential for entry monitoring and contact tracing but does not include any personal details like names or contact numbers.
 
-- You are solely responsible for the accuracy, quality, legality, and appropriateness of the submitted Content.
+### How is my data protected?
 
-- We may monitor and review Content, and you grant us permission to use the Content for providing Services.
+- CvSU QR Buddy adheres to strict data security protocols to ensure user privacy. All collected data is securely stored and only authorized personnel have access for official purposes.
 
-- We may refuse or remove any Content violating policies or deemed harmful at our discretion.
+### What happens if I scan a QR code multiple times?
 
-## 4. Billing and Payments:
+- Only the first scan of a QR code is registered for entry purposes. Subsequent scans within a short timeframe will not be recorded as separate entries.
 
-- CvSU QR Buddy is currently provided as a free service and does not involve any monetary transactions or paid features. You can access and use CvSU QR Buddy without any associated costs.
+### What if I have problems accessing or using CvSU QR Buddy?
 
-## 5. Accuracy of Information:
-
-- We may correct errors, inaccuracies, or omissions on the application.
-
-- No obligation to update information unless required by law.
-
-- Any specified update date does not imply modification of all information on the application.
-
-- Users can report inaccuracies on the application by emailing:
-  - danjoseph.ortega@cvsu.edu.ph
+- If you encounter any technical issues or need assistance using CvSU QR Buddy, please contact the CvSU IT Helpdesk at 
   - aldwinlee.estopia@cvsu.edu.ph
+  - danjoseph.ortega@cvsu.edu.ph
 
-## 6. Third-Party Services:
+### Is CvSU QR Buddy available outside CvSU premises?
 
-- Your use of third-party services is governed by their terms; we are not responsible for such services.
+- No, CvSU QR Buddy functionality is currently limited to designated areas within CvSU. It is not designed for use outside the university grounds.
 
-- We do not endorse or warrant any aspect of third-party services. Enabling other services permits us to disclose your data as necessary.
+### What are the benefits of using CvSU QR Buddy?
 
-- Firebase is considered a third-party service integrated with CvSU QR Buddy.
+- CvSU QR Buddy offers several benefits:
 
-## 7. Prohibited Uses:
+  - Enhanced entry monitoring: Provides a more efficient and   accurate way to track entries and exits.
+  - Improved contact tracing: Simplifies contact tracing efforts in case of potential health concerns.
+  - Streamlined access management: Facilitates smooth entry and exit for authorized personnel.
+  - Increased data security: Securely stores entry data for future reference and analysis.
 
-- Using the application for unlawful, harassing, or malicious purposes is prohibited.
+### Will CvSU QR Buddy be expanded to other functions?
 
-- We reserve the right to terminate use for violating prohibited uses.
+- The developers of CvSU QR Buddy are continuously evaluating potential improvements and expansions. Future features may include additional location tracking functionalities, access control capabilities, and integration with other university systems.
 
-- False emergency reporting is prohibited and is punishable.
-
-## 8. Limitation of Liability:
-
-- To the fullest extent permitted by law, CvSU QR Buddy is not liable for indirect, incidental, or consequential damages.
-
-## 9. Severability:
-
-- All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal, invalid or unenforceable. If any provision or portion of any provision of this Agreement shall be held to be illegal, invalid or unenforceable by a court of competent jurisdiction, it is the intention of the parties that the remaining provisions or portions thereof shall constitute their agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.
-
-## 10. Dispute Resolution:
-
-- Informal Negotiations: 
-
-  - In the event of any dispute arising out of or relating to this Agreement, the parties agree to first attempt to resolve the dispute informally through good faith negotiations. The parties shall designate representatives to engage in such negotiations within thirty (30) days of the written notice of a dispute by either party.
-
-- Mediation: 
-
-  - If the parties are unable to resolve the dispute through informal negotiations, they agree to attempt to settle the dispute through mediation conducted by a mutually agreed-upon mediator in Cavite City, Philippines. The mediation shall be conducted in English and in accordance with the rules of the Philippine Mediation Center (PMC). The cost of the mediation shall be shared equally by the parties.
-
-- Arbitration: 
-
-  - If the parties are unable to resolve the dispute through mediation within thirty (30) days of the commencement of mediation, the parties agree to submit the dispute to binding arbitration in accordance with the rules of the PAG. The arbitration shall be held in English in Cavite City, Philippines. The decision of the arbitrator shall be final and binding on the parties. Judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
-
-## 11. Changes and Amendments:
-
-- We reserve the right to modify this Agreement or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Agreement on the Website. When we do, we will revise the updated date at the bottom of this page. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.
-
-## 12. Acceptance of this terms:
-
-- You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the application and its services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the application and its services.
-
-
-## Contact Information:
-
-- For inquiries, contact **Dan Joseph** at **danjoseph.ortega@cvsu.edu.ph.** or **Aldwin Lee** at **aldwinlee.estopia@cvsu.edu.ph**
-
-
-
-
-
-
-
+We hope this FAQ has answered your questions about CvSU QR Buddy. If you have any further inquiries, please feel free to contact the CvSU IT Helpdesk.
