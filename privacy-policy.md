@@ -4,7 +4,7 @@ layout: default
 
 # Privacy policy
 
-[Terms and Conditions](./index.md).
+[Terms and Conditions](./terms-and-conditions.md).
 
 [About us](./about-us.md).
 

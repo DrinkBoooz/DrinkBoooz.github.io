@@ -3,9 +3,9 @@ layout: default
 ---
 # About CvSU QR Buddy
 
-[Privacy Policy](./privacy-policy.md).
-
 [Terms and Conditions](./terms-and-conditions.md)
+
+[Privacy Policy](./privacy-policy.md).
 
 [FAQs](./index.md)
 
