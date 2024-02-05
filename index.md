@@ -6,6 +6,8 @@ layout: default
 
 [Privacy Policy](./privacy-policy.md).
 
+[About us](./about-us.md).
+
 
 # CvSU QR Buddy FAQ:
 
