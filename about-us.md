@@ -4,7 +4,10 @@ layout: default
 # About CvSU QR Buddy
 
 [Privacy Policy](./privacy-policy.md).
+
 [Terms and Conditions](./terms-and-conditions.md)
+
+[FAQs](./index.md)
 
 January 23, 2023
 

@@ -7,6 +7,8 @@ layout: default
 
 [About us](./about-us.md).
 
+[FAQs](./index.md)
+
 January 23, 2023
 
 ## Terms and Conditions for CvSU QR Buddy:
